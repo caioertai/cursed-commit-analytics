@@ -1,0 +1,351 @@
+================================================================================
+================================ Cursed Commits ================================
+================================== cultivate ===================================
+================================================================================
+      -------
+
+      Author:       Jean Colombel
+      Message:      Corrected crash
+      Cursed Words: ["Corrected", "crash"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/685ca7ff0256ce51b7f7488c37d5c9fda7258791
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Corrected issue per Ann comment
+      Cursed Words: ["Corrected", "issue"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/b3cd3462b8da6e9bc8eacb3ab5539075528e54cc
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Merge pull request #56 from JeanColombel93/RemoveUnnecessaryCSS
+
+removed some css that was conflicting with a previous merge
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/e9494db652611aacf0ace4ff84669428917dfa6e
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      added back css that got removed by mistake
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/f6ea2cabb317ce4781a4b2e2a7a020403391264b
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      removed some css that was conflicting with a previous merge
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/ba0bbd0947977762122f4d8f7105ca60d870ab39
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Merge pull request #55 from JeanColombel93/FixEditBtn
+
+Fix edit btn
+      Cursed Words: ["Fix"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/bf2ddde8d49786d36bf8a2a1d0ef77b3d61a9cce
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      changed css files so that we can use different styles for the edit btn depending on the page
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/a9475f989f514f39bc28ee11ab633c0bd3e707b4
+
+      -------
+
+      Author:       Daniel Silverman
+      Message:      Merge pull request #48 from JeanColombel93/FixDoodleBtns
+
+Fix doodle btns
+      Cursed Words: ["Fix"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/299eb4ef24403a9aa6338ba758f5189981de56af
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      tried to fix the color picker issue
+      Cursed Words: ["fix", "issue"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/d8ba8d4caa42d601153d834fe8f7f701ad5b0eca
+
+      -------
+
+      Author:       Daniel Silverman
+      Message:      Merge pull request #45 from JeanColombel93/style-community-feature-after-stand-up
+
+Changes to css styling after stand up discussion
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/8dba0a846b1f22864165b821a822b99559d14363
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Changes to css styling after stand up discussion
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/f2e8785fa6e28fc446086689429e247a8e94cf87
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Fixing conflict
+      Cursed Words: ["conflict"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/1769479611e5ddfddeacecfe0ffedcf02e5d962f
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Few adjustments to the communities index page css
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/1a9d3efcecb70443eeff2b24b3b4d614109b0d6b
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Edited the new community form css styling
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/d47178793f2f7f631bce0a869c31f6efca95b9fd
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Added REDISCLOUD for heroku
+      Cursed Words: ["heroku"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/15d7faa18212ce3d34293d6460220bdc34a61995
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Heroku bug fix with Action-cable
+      Cursed Words: ["Heroku", "bug", "fix"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/0c9bbff97f0ac2e29ed408483b69bd5988af8bb4
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Merge pull request #37 from JeanColombel93/FixSpotifyEmbed
+
+added back spotmatches which was deleted before during conflict resol…
+      Cursed Words: ["conflict"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/444c01e7c2459ce24d0ba64b0c62ef3e95241e9a
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      added back spotmatches which was deleted before during conflict resolution
+      Cursed Words: ["conflict"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/e8732a56eb492d0b8c0d57613a930f0f1d61b8b0
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Corrected issues in the nested form
+      Cursed Words: ["Corrected", "issues"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/d1490f03d993ab37e722a3532e1226c9ec8be60a
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      implemented spotify embed similar to youtube embed, with model/controller/views and small modification to the embed controller js
+      Cursed Words: ["small"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/1f15e50ff6b17b01cd33678bd0c858e0b0266bb9
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Merge pull request #30 from JeanColombel93/FixEntryOrder
+
+fixed order of entries in index
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/04de42b6804017a66fd595ad144bef51f10e76e2
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      fixed path for edit entry
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/62aab0a994f53a0945062c6a2dd246ba88582b01
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      fixed order of entries in index
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/abde82f0098a446aecd1370ff4de16b698f6a1b0
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      changed the date format on the entry card and added logic to put the right emoji based on mood - styled css accordingly
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/338cddebdcad1a1d7f203a3bbfe55e8f7baf978b
+
+      -------
+
+      Author:       Daniel Silverman
+      Message:      Merge pull request #19 from JeanColombel93/MakeYoutubeThumbnailResponsive
+
+changed thumbnail max width, added css to the youtube view to make it…
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/d34cf3a12be69dc563c295c467fe6cea8cbe5224
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      Merge pull request #16 from JeanColombel93/style_menu_page
+
+fixed button size, placed buttons on menu page.
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/a332ae72fef4072715ca08b044a7c821b41b3216
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      changed thumbnail max width, added css to the youtube view to make it responsive
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/060f917f95f8d1a5602162e18b8b352c7dca4422
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Solve conflicts
+      Cursed Words: ["conflicts"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/eddc37ba4f43d0de2a29f483b41eb6a0094380bb
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      fixed doodle path in menu
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/d9bc80d0fe91b3c5bfcc75fe93dfd89c46fed218
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      adapted existing canvas javascript to fit our app
+      Cursed Words: ["javascript"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/723ef1ddfce001a61a8133a3a43c65d34fa59024
+
+      -------
+
+      Author:       Daniel Silverman
+      Message:      fixed button size, placed buttons on menu page.
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/3b39d2333ad3f85226c449a0f40144a6784981d8
+
+      -------
+
+      Author:       Daniel Silverman
+      Message:      Merge pull request #15 from JeanColombel93/FixTrixBackground
+
+added background color to trix buttons and fixed emoji css file form …
+      Cursed Words: ["fixed", "css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/bdf29cb5b383613ebfa0b3bb4a711e2f9d6e9ecb
+
+      -------
+
+      Author:       Daniel Silverman
+      Message:      Merge pull request #14 from JeanColombel93/FixGuidedEntry
+
+fixed an error with mood when creating guided entry
+      Cursed Words: ["fixed", "error"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/0006f8baa3f51698f7739e2d430417e86c61deaa
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      added background color to trix buttons and fixed emoji css file form before
+      Cursed Words: ["fixed", "css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/3b258688f21f772d14190ff5f1f6322ed12104fb
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      fixed an error with mood when creating guided entry
+      Cursed Words: ["fixed", "error"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/3b5ee9985baffc3f1710c761a34e618e1e4f7b78
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      fixed conflict with master
+      Cursed Words: ["fixed", "conflict"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/cfed6fb0293a928532ac3e7171ed86db3a530e30
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      small style adjustments to the new entry form to make sure the trix toolbar is responsive
+      Cursed Words: ["small"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/fb02f1331b7533b61f4c6352fb6aacf165598a1e
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      restyled some of the trix default css to keep only 5 tools. Changed icon of link and attach to youtube and camera
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/09d51766fb904dbcc336f478ab2b7dfd9370b9d7
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      fixed conflict merge with schema
+      Cursed Words: ["fixed", "conflict"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/fa38a8feab06d996d4c7163b5d3906b7897d4e43
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Installed Actiontext js and css packages
+      Cursed Words: ["css"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/314f274de6ee7e95a716440a43a50b8f251138ca
+
+      -------
+
+      Author:       Anne-Marie Nault
+      Message:      resolve conflict with gemfile.lock, identical to master
+      Cursed Words: ["conflict"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/0e30d1566634728b841719bc7ab77b3631a5c299
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Corrected the migration file; Created the 7 restful routes
+      Cursed Words: ["Corrected"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/f3f3a7cef518779fe744ec177fb0f6adeafb4da4
+
+      -------
+
+      Author:       Jean Colombel
+      Message:      Edited Gemfile.lock to push on heroku
+      Cursed Words: ["heroku"]
+      https://api.github.com/repos/JeanColombel93/cultivate_app/git/commits/fe8864538fa3d202c7d9b1129845acd579d7e5a9
+
+
+========================== Stats ===========================
+======================== cultivate =========================
+
+Total cursed commits count: 43
+
+Cursed commit champions:
+              Anne-Marie Nault --------> 20
+              Jean Colombel -----------> 17
+              Daniel Silverman --------> 06
+
+Most used cursed words:
+              css ---------------------> 15
+              fixed -------------------> 12
+              conflict ----------------> 06
+              corrected ---------------> 04
+              fix ---------------------> 04
+              heroku ------------------> 03
+              issue -------------------> 02
+              small -------------------> 02
+              error -------------------> 02
+              crash -------------------> 01
+              bug ---------------------> 01
+              issues ------------------> 01
+              conflicts ---------------> 01
+              javascript --------------> 01

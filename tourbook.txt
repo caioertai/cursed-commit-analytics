@@ -1,0 +1,420 @@
+================================================================================
+================================ Cursed Commits ================================
+=================================== tourbook ===================================
+================================================================================
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Small edits
+      Cursed Words: ["Small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/0380623283c75e8fa2ad844e5248eb457297361e
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Small edits
+      Cursed Words: ["Small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/478a94ea523c2ab58d3863848dce337f7774fe18
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      Merge pull request #60 from hollyhilts/some_edits
+
+some small fixes
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/951acd10f9c88f7a0d3a7402bec375bc6ed0e384
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      some small fixes
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/9c536229cb9c8768c052720cfa464fb5aec15cf2
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Some more small fixes.
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/91ad92568b91478f16ab7f97250da3213e5bae00
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Some more small edits
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/a6d35f6e737f915b0d3b74db9bb32d998da11364
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      Merge pull request #56 from hollyhilts/small_fixes
+
+Small fixes
+      Cursed Words: ["Small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/66de5ddcb79f6b5eebdff7a11a31658026598c49
+
+      -------
+
+      Author:       HollyHilts
+      Message:      fixed broadcast error
+      Cursed Words: ["fixed", "error"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/b98cdff036ac22e4fa7cb055fe73d4491dc43a7f
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      small fixes
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/554bdcba5d9a54b4de89d826c043f4f332a1518e
+
+      -------
+
+      Author:       HollyHilts
+      Message:      updated 500 error
+      Cursed Words: ["error"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/4afcb5ea76b926525a25d81efb2f821e829758ca
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Merge pull request #51 from hollyhilts/schedule_fix
+
+schedule not fixed, but members show pages looks nice
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/5882b94f5c911f6c0bbd691789f73d282943546c
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      schedule not fixed, but members show pages looks nice
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/6731011ad26296b919d0340ca8dd3ffc6581b343
+
+      -------
+
+      Author:       HollyHilts
+      Message:      Merge pull request #45 from hollyhilts/fix-user-profile
+
+Fix user profile
+      Cursed Words: ["fix", "Fix"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/be2f21bb5534bdbed28ba646b557165803980cf7
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      almost done with user profile, need to fix the logout button
+      Cursed Words: ["fix"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/67c4f0c55bffb00adc873329130539c46996e356
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      Merge branch 'master' into fix-user-profile
+just up to date
+      Cursed Words: ["fix"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/53872ea2177cef897e8e32bd077d4a1af90307ee
+
+      -------
+
+      Author:       HollyHilts
+      Message:      fix merge conflicts
+      Cursed Words: ["fix", "conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/716a9cd9a347e408d902a4d8a5510986dc835037
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      resolved conflicts
+      Cursed Words: ["conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/8dabe325e7bf606d019718ed0a2fe932ea4010aa
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Merge pull request #42 from hollyhilts/update-pundit
+
+Update pundit
+      Cursed Words: ["pundit", "pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/b92de0cfd08608649911d5a6fc5af28f66fef150
+
+      -------
+
+      Author:       HollyHilts
+      Message:      updated pundit
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/614faecba7df07645b5665b70b60568ee5b72579
+
+      -------
+
+      Author:       HollyHilts
+      Message:      re-integrated pundit for tours and events
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/feb3405c6b701dd5dd4866dcb4b50e42afd400f2
+
+      -------
+
+      Author:       HollyHilts
+      Message:      adjusted heroku bug from broadcasts
+      Cursed Words: ["heroku", "bug"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/2916bbfa95892e2be30dd8a5ceacc8dbdcd15c19
+
+      -------
+
+      Author:       HollyHilts
+      Message:      updated where the notifications button is and fixed formatting of broadcasts index
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/564988d1204bfc3e44350a5bb4e206b251f731b6
+
+      -------
+
+      Author:       HollyHilts
+      Message:      Merge pull request #36 from hollyhilts/edit_tm
+
+Fixed the loss of tour_members after adding a new event
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/ad117bed9dad0f0289d439596133c1f425938015
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Fixed the loss of tour_members after adding a new event
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/8198557ccb61800aefcea698adb75e5705bad80a
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Merge pull request #35 from hollyhilts/fix_link_avatar
+
+Fix link avatar
+      Cursed Words: ["Fix"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/47c3f89d004c1c1b5682b9085d998334df301782
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      fixed conflicts
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/893384875591756ae4427b185df62560a58d21d5
+
+      -------
+
+      Author:       HollyHilts
+      Message:      Merge pull request #31 from hollyhilts/nested_nested_form
+
+Fixed the add tour form
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/bbc1564917a5e91c6a679d9fa2e645a44987fb50
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Fixed the add tour form
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/3f98a110b914d5309112442a5511728e312d2eb2
+
+      -------
+
+      Author:       HollyHilts
+      Message:      fixed conflicts
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/0dc052afc5c43260dba6648371aa3a7324fad5b4
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Desactived pundit
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/7e542751025b0827163b25939451017c17813e55
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Fixed event params and created event cards.
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/a29fcc3396c22e896f983b8336eb9fdfcc9ddf68
+
+      -------
+
+      Author:       HollyHilts
+      Message:      fixed seed bug
+      Cursed Words: ["fixed", "bug"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/d59c6deea0bf0bd6f466ece9a5d674d58db6e00c
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      fixed some stuffs
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/efe3e77c85b34007cbaa5f0ebbec079497d12337
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      small fixes
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/2419f5f04c8308073a3122764cda42e24b742dbd
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Styled small buttons
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/267a7bee056eda9d374b1f89bb0142cfc85f4074
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Edited css for trix-editor for text overflow.
+      Cursed Words: ["css"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/2bdf2d47cf3d66afa55d7d77764388353a4e374d
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Small fix.
+      Cursed Words: ["Small", "fix"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/ad62a047c7d0eaa4f6ee3b9fde3189ae6973c739
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      fixed conflicts
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/e9564a4c4ac32d97755aef32cdee8006cf9739d9
+
+      -------
+
+      Author:       HollyHilts
+      Message:      Merge pull request #21 from hollyhilts/create_footer
+
+navbar fixed on top and need to get the footer fixed at the bottom
+      Cursed Words: ["fixed", "fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/3dd6dc0080860db5923182be3ea2f2bffc49024f
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      navbar fixed on top and need to get the footer fixed at the bottom
+      Cursed Words: ["fixed", "fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/3351c924e747354a967b3d7322482b87ac806ce5
+
+      -------
+
+      Author:       HollyHilts
+      Message:      fixed the navbar links
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/c7dd7f6be9e142b43e7c54cf5a5f68021fb02afb
+
+      -------
+
+      Author:       Pascal Racine-Venne
+      Message:      fixed conflicts
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/bddcb7db7ccae8f93c433ae9ca65052e4750a7c7
+
+      -------
+
+      Author:       HollyHilts
+      Message:      heroku test
+      Cursed Words: ["heroku"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/a866fbd2bc916ae309a770122531ebf95d68032f
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Merge pull request #16 from hollyhilts/pundit
+
+Pundit
+      Cursed Words: ["pundit", "Pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/dc4c67d64e3e19ce9c2b7da037275a199ec3aae4
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Merge branch 'master' into pundit
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/462accb515865f3cbfe8d63290cb2b71c91622ad
+
+      -------
+
+      Author:       HollyHilts
+      Message:      created event pundit policy
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/b6f5134bb98e766d5e514398ed771f957f07a54f
+
+      -------
+
+      Author:       HollyHilts
+      Message:      fixed conflicts
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/5566fc110cc470300c6c561219e81fda90277df6
+
+      -------
+
+      Author:       HollyHilts
+      Message:      worked on pundit for tour model update create and destroy
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/8020cdc9d36d60f1c76cd9a30281bc7fc069edbe
+
+      -------
+
+      Author:       HollyHilts
+      Message:      began pundit for tour model and seeded tour-members to verify
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/18dce06211613b7877c991b30a970c7a01e42269
+
+      -------
+
+      Author:       HollyHilts
+      Message:      added platform for heroku
+      Cursed Words: ["heroku"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/6d283976bb1fe13e0c0ccdd388ef53cc39091adf
+
+      -------
+
+      Author:       HollyHilts
+      Message:      Merge pull request #6 from hollyhilts/edit_update_destroy_tour_member
+
+Fixed the errors from the previous table modifications.
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/f4721ee72883e26b50b2e43197d5bb28dae085e7
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Fixed the errors from the previous table modifications.
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/77ec5452564284ad5324df3d702bff32ef12a71d
+
+      -------
+
+      Author:       Thomas Sam-Yin-Yang
+      Message:      Some small fixes.
+      Cursed Words: ["small"]
+      https://api.github.com/repos/hollyhilts/tourbook/git/commits/aa5bae92b71084bec796e83974c1a55fd5074e5e
+
+
+========================== Stats ===========================
+========================= tourbook =========================
+
+Total cursed commits count: 53
+
+Cursed commit champions:
+              Thomas Sam-Yin-Yang -----> 23
+              HollyHilts --------------> 21
+              Pascal Racine-Venne -----> 09
+              Kristyna Dierstein ------> 00
+
+Most used cursed words:
+              fixed -------------------> 23
+              small -------------------> 12
+              pundit ------------------> 11
+              fix ---------------------> 07
+              conflicts ---------------> 07
+              heroku ------------------> 03
+              error -------------------> 02
+              bug ---------------------> 02
+              css ---------------------> 01

@@ -1,0 +1,351 @@
+================================================================================
+================================ Cursed Commits ================================
+=================================== allwaves ===================================
+================================================================================
+      -------
+
+      Author:       Alexandre Papineau
+      Message:      Small justify-content change on weekly schedule
+      Cursed Words: ["Small"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/2f19cba79c9af743f4c2b6e1691fb7f6ec1e929e
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      Merge pull request #107 from ctboyle6/new-fix-mapbox
+
+Fixed
+      Cursed Words: ["fix", "Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/c750006bcb7d2d9239ffd9b0c0f27c1a1fbf6598
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fixed
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/a80adfff3e550ff605c3db64238b47d628c594bd
+
+      -------
+
+      Author:       Clayton Landry
+      Message:      Merge pull request #100 from ctboyle6/user-specific-spots
+
+Bug fixed
+      Cursed Words: ["Bug", "fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/411309c39af967d5258ab7625e3af4cf140fd9f3
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Bug fixed
+      Cursed Words: ["Bug", "fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/82f138ea5c884d74ea36f1c0e274f092058bfed8
+
+      -------
+
+      Author:       Alexandre Papineau
+      Message:      Fixed simple_form save issue
+      Cursed Words: ["Fixed", "issue"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/ed4ab970d64203c4032a9f90bb459abed6deae47
+
+      -------
+
+      Author:       Alexandre Papineau
+      Message:      Fixed save button on preference page
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/fed677cc4a74f45e0b438602d0ae62c8388889a8
+
+      -------
+
+      Author:       Alexandre Papineau
+      Message:      moved the form to inclue the dropdown button, fixed the save issue
+      Cursed Words: ["fixed", "issue"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/b5c1444e18a7224b7aff21aaca4511b137944f34
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:       Fixed markers
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/140660d942aa9c834d5089151c78edba1dd07a7c
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      Merge pull request #88 from ctboyle6/resize-placeholder-img
+
+Fixed bug
+      Cursed Words: ["Fixed", "bug"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/85731a72b487557326723fa32425079eda9af5e0
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fixed bug
+      Cursed Words: ["Fixed", "bug"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/d6f5ff41fcf72ce34b38169428b85d63f3bc4bbf
+
+      -------
+
+      Author:       Alexandre Papineau
+      Message:      Merge pull request #72 from ctboyle6/Result_fixed
+
+Results is finally displayed on dashboard with new styling
+      Cursed Words: ["finally"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/7f29d81b0e637d693e12b46738cf1f9c52f5df6b
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fixed bug
+      Cursed Words: ["Fixed", "bug"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/e86385d98740419b8a8ac47cac6b863ac37057ca
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fixed the seeds + add location
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/db821194b5f4342229ccfb1ad709364cf4c947de
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      small change in the image api to get better imegs
+      Cursed Words: ["small"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/0fa770f8ad0a25a373ea38b43ecba0ce2432a75a
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      attempted to hide/hover/show hints with simpleform css. not using currently
+      Cursed Words: ["attempted", "css"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/ff875701b7f3c718dcde60ae0dcb8a86879a7bf6
+
+      -------
+
+      Author:       Clayton Landry
+      Message:      fixed conflicts in gemfile.lock
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/41c866811eae5939fa11ab78675cc176b0c4c118
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Merge pull request #60 from ctboyle6/preference_pages_merge
+
+preferences display value javascript
+      Cursed Words: ["javascript"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/83f10862e05afb287106860f452603a1b2c51334
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      resolved conflict in spot_scrape.rb
+      Cursed Words: ["conflict"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/0e27c9ffde32c33dd8a569263f34359adb708044
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      fixed userspot saved or add button on spots index
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/a2677c9faa79ef51838a67f0ac73e5d5285b5e8b
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Merge pull request #41 from ctboyle6/dashboard_preferences_bug
+
+Dashboard preferences bug
+      Cursed Words: ["bug"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/d396ecbd4f704a9facff0e3b9d05e56c469df63f
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      fixed conflict with tide range validation and tide position validation
+      Cursed Words: ["fixed", "conflict"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/acd9c19f05b7ed7734553b841713748508494504
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      cards and small container formatting for week view
+      Cursed Words: ["small"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/efaf81d66bb49c2fdf80cbcb1b623b873edf988f
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      fixed dates to day-go-condition
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/a7795fa0ba07f13b675d2854456ece2796d5289d
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      fixed error with preference form: tide position names
+      Cursed Words: ["fixed", "error"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/1643bd7d1d27dd0ee16f3623d83de5e2ab973892
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      wave height seed fix, go logic update
+      Cursed Words: ["fix"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/4aa82b838c8c739e9f0c9856a6c8b1faf0e5f292
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      Merge pull request #30 from ctboyle6/create_spot_from_index_spots
+
+Fixed the seeds
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/0d5d17bcbc71a34c6b37a90e62c80c05e832b2e8
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      Merge pull request #28 from ctboyle6/create_spot_from_index_spots
+
+Fixed bug and create a new function for creating spot
+      Cursed Words: ["Fixed", "bug"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/2d6204dbcf875620173cbce5ff49f41ae8c63f81
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fixed the seeds
+      Cursed Words: ["Fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/0f07b2b1e2903d0d274943d094fccbd139233bad
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fix conflicts
+      Cursed Words: ["Fix", "conflicts"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/faa25415d8127cc44f46b3a9c1cbb1623177dcdc
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Fixed bug and create a new function for creating spot
+      Cursed Words: ["Fixed", "bug"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/b850caad611d031e61f28e1b596435fe81b8345b
+
+      -------
+
+      Author:       Clayton Landry
+      Message:      fixed /users to be /dashboard
+      Cursed Words: ["fixed"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/91b47896c84bdea2c597957cea33743598733fe2
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      removed token comments, need to fix missing inputs on submission
+      Cursed Words: ["fix"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/c5dfb1e0399840790129707721d059b39a2d09d8
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      ISSUE: need to fix hidden authenticity token to submit form
+      Cursed Words: ["ISSUE", "fix"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/e7c20c773b1a0241f31922d3e4883406d98a780a
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      created initial view, added pundit policy
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/f20f6776566fc978f7c4b70b2ea28ae656161e13
+
+      -------
+
+      Author:       Chris Boyle
+      Message:      fixed conflicts in seed file
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/4431b9e77097f2aaa657cb2599f6846ba7ca45f2
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Merge pull request #12 from ctboyle6/create_dashboard_view
+
+created dashboard view, dashboard skips pundit
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/5099c3fac2401d351d6be27247b84f9698d178f9
+
+      -------
+
+      Author:       Clayton Landry
+      Message:      resolved conflicts 2
+      Cursed Words: ["conflicts"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/38cb48e6845b915d7f93a3e112a220cd9472c2f9
+
+      -------
+
+      Author:       Clayton Landry
+      Message:      created dashboard view, dashoboard skips pundit
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/7927bdf9d143f9a675a3f0cdd4c145cf9b510c5b
+
+      -------
+
+      Author:       Alexandre Papineau
+      Message:      Fixed conflict
+      Cursed Words: ["Fixed", "conflict"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/6be6da750214adf4bcb54e96d01c95c55af30779
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      fixed conflicts
+      Cursed Words: ["fixed", "conflicts"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/d136b6068d8af9fdccc51b268d78816dd8680288
+
+      -------
+
+      Author:       baptiste auffeuvre
+      Message:      Merge pull request #4 from ctboyle6/pundit_setup
+
+pundit setup complete => Ok
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/cbc133859746ffb39f457199dccd90656c68315a
+
+      -------
+
+      Author:       Clayton Landry
+      Message:      pundit setup complete
+      Cursed Words: ["pundit"]
+      https://api.github.com/repos/ctboyle6/AllWaves/git/commits/00ce1f15b6ef9e0baee002ca969cf58d4d81d7d8
+
+
+========================== Stats ===========================
+========================= allwaves =========================
+
+Total cursed commits count: 43
+
+Cursed commit champions:
+              Chris Boyle -------------> 16
+              baptiste auffeuvre ------> 15
+              Alexandre Papineau ------> 06
+              Clayton Landry ----------> 06
+
+Most used cursed words:
+              fixed -------------------> 25
+              bug ---------------------> 08
+              fix ---------------------> 05
+              conflicts ---------------> 05
+              pundit ------------------> 05
+              small -------------------> 03
+              issue -------------------> 03
+              conflict ----------------> 03
+              finally -----------------> 01
+              attempted ---------------> 01
+              css ---------------------> 01
+              javascript --------------> 01
+              error -------------------> 01
