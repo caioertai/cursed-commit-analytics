@@ -1,2 +1,2 @@
-data/commits
-data/stats
+data/commits/*
+data/stats/*
